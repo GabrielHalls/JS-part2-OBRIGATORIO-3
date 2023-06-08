@@ -1,1 +1,1 @@
-# JS-part2-OBRIGATORIO-3
+# ColorPaletteGeneratorInJavaScript
